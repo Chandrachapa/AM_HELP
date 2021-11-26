@@ -4958,7 +4958,7 @@ if(!inCoverage)
 				main.nbmessages++;//no msgs sent from a phone
 			    main.energy_source_relay_main += transmitE;
 				nbrelayers++;
-				System.out.println("main.nbmessages: "+main.nbmessages+";"+time(SECOND));	
+				//System.out.println("main.nbmessages: "+main.nbmessages+";"+time(SECOND));	
 				//localization of relayid
 				relay_localization_data(buffer_relayid.get(arrayKeys[0]));
 				
