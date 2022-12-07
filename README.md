@@ -1,5 +1,7 @@
 # AM_HELP
 
+
+
 Reliable and efficient transmission of emergency calls during a massive network failure is both an 
 indispensable and challenging task. In this paper, we propose a novel fully 3GPP and 5G compatible emergency
 call protocol named 5G StandalOne Service (5G-SOS). A 5G-SOS-enabled emergency service provides potential
