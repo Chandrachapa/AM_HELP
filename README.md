@@ -1,4 +1,4 @@
-# 5G-SOS
+# Adaptive Emergency Call Service for Disaster Management
 
 Accepted to : J. Sens. Actuator Netw. 2022, 11(4), 83; https://doi.org/10.3390/jsan11040083
 
